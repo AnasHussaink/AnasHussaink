@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Anas Hussain Khan — Electronics Engineer</title>
+<desc id="desc">Embedded systems, robotics and local AI. From sensors and firmware to intelligent interfaces. Siegen, Germany.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#172e45"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#29415a" stroke-width=".6"/></pattern></defs>
+<rect width="1280" height="340" rx="16" fill="url(#bg)"/><rect width="1280" height="340" rx="16" fill="url(#grid)" opacity=".6"/>
+<path d="M1010 0V64H1120V125H1280M980 340V279H1080V222H1280M1280 170H1176" fill="none" stroke="#41c7c2" stroke-width="2" opacity=".5"/>
+<g fill="#41c7c2"><circle cx="1120" cy="125" r="5"/><circle cx="1080" cy="222" r="5"/><circle cx="1176" cy="170" r="5"/></g>
+<rect x="55" y="55" width="5" height="230" rx="2" fill="#41c7c2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="84" y="86" fill="#6bddd5" font-size="16" letter-spacing="3">ELECTRONICS ENGINEER</text>
+<text x="80" y="151" fill="#f4f8fc" font-size="53" font-weight="700">Anas Hussain Khan</text>
+<text x="84" y="195" fill="#cad8e7" font-size="24">Embedded systems · Robotics · Local AI</text>
+<text x="84" y="241" fill="#a8bdd0" font-size="20">From sensors and firmware to intelligent interfaces.</text>
+<text x="84" y="284" fill="#6bddd5" font-size="15" letter-spacing="1.5">M.Sc. ELECTRICAL ENGINEERING  /  SIEGEN, GERMANY</text>
+</g></svg>
