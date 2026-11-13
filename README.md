@@ -60,6 +60,13 @@ Hands-on BJT measurement using an MPI probe station, optical microscope alignmen
 `Semiconductor measurement` `Probe alignment` `Electrical characterization`  
 **Engineering focus:** measurement setup, device contacting, and laboratory documentation.
 
+### 07 · FIR Studio — FPGA DSP and verification
+**[Explore FIR Studio →](https://github.com/AnasHussaink/FIR-Studio-FPGA-DSP)**  
+A programmable four-tap FIR accelerator on Artix-7 with signed fixed-point arithmetic, pipelining, UART coefficient updates, and a Python desktop verification workbench.
+
+`SystemVerilog` `FPGA / RTL` `Digital signal processing` `Vivado` `UART` `Python / PySide6`  
+**Engineering focus:** hardware arithmetic, self-checking simulation, and software-to-FPGA result comparisons.
+
 **Also explore:** [ESP32-S3 I2S audio lab](https://github.com/AnasHussaink/ESP32-S3-I2S-Audio-System-Microphone-Speaker-Loopback) · [Siegen student jobs guide](https://github.com/AnasHussaink/Siegen_Jobs)
 
 ## Engineering toolkit
@@ -101,3 +108,10 @@ Interested in exchanging ideas and collaborating on **embedded firmware, sensor 
 
 **[Portfolio](https://app.notion.com/p/Anas-Hussain-Khan-2bbcc46b30a080e39611d4e9058fe91e?source=copy_link) · [LinkedIn](https://www.linkedin.com/in/anas-hussain-khan-k1/)**  
 Siegen, Germany · English C1 · German A2 · Urdu native
+
+
+## Development and quality
+
+[![Repository quality](https://github.com/AnasHussaink/AnasHussaink/actions/workflows/quality.yml/badge.svg)](https://github.com/AnasHussaink/AnasHussaink/actions/workflows/quality.yml)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch/PR workflow, local checks and CI coverage.
